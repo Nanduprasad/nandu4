@@ -1,4 +1,4 @@
-n=4
+n=3
 sum=0
 while(n>0):
   sum=sum+n
